@@ -17,5 +17,12 @@ let names = ['Shimu', 'Saima', 'Shanta', 'Sumaya', 'Sweety', 'Sume',];
 
 for(i = 0; i <= names. length; i = i + 1){
     console.log(names[i]);  
+};
+
+let number = [8, 10, 12, 14, 15];
+
+for(b=0; b<number.length; b=b+1; ){
+    console.log(number[b]);
+    
 }
 
